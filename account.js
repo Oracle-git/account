@@ -1,1 +1,1 @@
-var account = '';
+var account = 'abcd';
